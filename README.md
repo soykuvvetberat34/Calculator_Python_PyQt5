@@ -11,8 +11,8 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 
+![Ekran görüntüsü 2024-01-29 193024](https://github.com/soykuvvetberat34/Calculator_Python_PyQt5/assets/69586522/2893845f-acf4-4bc0-8994-4542b56633af)
 
-![Ekran görüntüsü 2024-01-29 192817](https://github.com/soykuvvetberat34/Calculator_Python_PyQt5/assets/69586522/bab2a285-e103-4fd6-a705-1f233243d589)
 
 
 
